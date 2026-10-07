@@ -1,0 +1,9 @@
+{
+  "fixture": "three explicitly fictional members",
+  "counts": {
+    "people": 3,
+    "clubs": 2,
+    "friendships": 3,
+    "club_memberships": 3
+  }
+}

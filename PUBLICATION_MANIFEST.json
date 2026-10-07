@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-08",
+  "title": "Social network database project",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "f699baa956a921cb7130319e54f48aa635fce4e50e7b07bdcd34d0c843b8901c",
+      "bytes": 530
+    },
+    {
+      "path": "C3M2_components.ipynb",
+      "sha256": "5b27e5121e97964b6b403a4fcf301b57ad40d5d69b280ee28ba99ca7ccdd0dbe",
+      "bytes": 2967
+    },
+    {
+      "path": "example_members.csv",
+      "sha256": "cfb5cb2bb0c35c05f5ceb9d38d25df49ca7c6a433db29c5b53ba55c4cfc9d606",
+      "bytes": 257
+    },
+    {
+      "path": "example_results.json",
+      "sha256": "fa2fa9b1d559215768aab155dd266c19c7df49bf6179af42e54527c86d177dee",
+      "bytes": 161
+    },
+    {
+      "path": "README.md",
+      "sha256": "a4e40490338e665811fa2cb1fb6b03de84642ca7e6a21bbd5702d83688947bbf",
+      "bytes": 2887
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8585580c7e149da57ab1d68b3de7e4d55bb67b38a0d83b5eb0929b68922cea74",
+      "bytes": 35
+    },
+    {
+      "path": "social_database.py",
+      "sha256": "780d66a50664ec759b36be18416209dbebd884e5e8122be5a5363e7273d72f19",
+      "bytes": 7687
+    },
+    {
+      "path": "test_database.py",
+      "sha256": "b52100e38b6c2ded0bb998ac3ca10d0940dbe05cc098885eef7a231828b9b7e7",
+      "bytes": 3513
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "7b4aa32fc1a41902a84c2ea690b57f94ce10019cd87eb684384611ab39fa55f0",
+      "bytes": 888
+    }
+  ]
+}

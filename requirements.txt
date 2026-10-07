@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.44
+pytest==9.1.1

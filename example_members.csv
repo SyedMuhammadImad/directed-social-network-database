@@ -1,0 +1,4 @@
+ID,Name,Surname,Age,Gender,Location,Clubs,Friendships
+1,Alex,Example,20,unspecified,Fictional City,"['Hiking Club', 'Chess Club']",[2]
+2,Blair,Example,21,unspecified,Fictional City,['Chess Club'],[3]
+3,Casey,Example,22,unspecified,Fictional City,[],[1]
